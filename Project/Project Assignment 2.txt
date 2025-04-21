@@ -1,0 +1,55 @@
+Objective:
+
+The goal of this assignment is to finalize the project scope and demonstrate meaningful progress on system modeling, data collection, and experimental planning. 
+
+1. Final Problem Statement
+
+Clearly describe the finalized system, and its scope.
+Define system boundaries and highlight any updates from the previous submission.
+2. Input Data Analysis
+
+Identify the data required for the simulation or analysis.
+Describe:
+Data sources (e.g., real-world data, assumed/synthetic data, literature)
+Data collection methodology (e.g., surveys, observations, public databases)
+Include summary statistics, distributions, or tables if data is already collected.
+3. Modeling 
+
+Describe the planned modeling methodology.
+Describe key entities, events, resources, and interactions in the system.
+Include a basic structure or initial sketches of your simulation model (e.g., AnyLogic screenshots, logic diagrams).
+4. Output Data Analysis
+
+Define the key output variables and performance metrics to be tracked.
+Discuss how outputs will be analyzed (e.g., comparison of scenarios, sensitivity analysis).
+5. Experimental Use Cases
+
+List experimental scenarios you plan to test in your model (e.g., policy changes, bottleneck analysis, resource optimization).
+Briefly describe:
+What-if scenarios or parameter variations
+Expected insights or hypotheses to be tested
+Guidelines:
+
+Total Marks: 50
+
+Due Date: Friday, 18 April 2025 (EOD)
+
+Maximum Length: 5 pages (excluding references and appendix) - font size >= 10
+
+Figures & Tables:
+
+Key figures and tables should appear within the first 5 pages
+Supporting diagrams, or screenshots should be placed in the appendix
+Appendix May Include:
+
+Model screenshots or simulation block diagrams
+Additional data tables or code snippets
+Supporting figures or analysis results
+References to external documents or resources
+Group Submission: Only one submission per group is required
+
+Academic Integrity Note:
+
+Resemblance or direct usage of AnyLogic sample models, examples from the AnyLogic library, or models available online (e.g., GitHub, blogs, forums, etc.) will be treated as plagiarism.
+Such submissions will be reported immediately and the team will receive zero marks for the project.
+You are expected to create original models and project-specific logic based on your own understanding and the system you choose.

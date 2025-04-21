@@ -1,0 +1,5 @@
+https://github.com/hvzzzz/Vehicle_Trajectory_Dataset
+http://hdl.handle.net/20.500.11850/437802
+https://www.kaggle.com/datasets/fedesoriano/traffic-prediction-dataset/code
+https://zenodo.org/records/3653880
+https://archive.ics.uci.edu/dataset/536/pedestrian+in+traffic+dataset
